@@ -1,5 +1,5 @@
 # ignores image files
-.jpg
+*.jpg
 
 # ignore SASS config files
 .sass-cache
