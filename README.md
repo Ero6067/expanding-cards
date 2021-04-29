@@ -8,6 +8,10 @@ Uses Javascript, HTML, CSS
 
 ![Example Page](/images/project-example.jpg)
 
+```sh
+Disclaimer:  I do not own any of these photos. please note that all images and copyrights belong to their original owners. no copyright infringement intended.
+```
+
 # Features
 
 - Using vanilla JS, HTML, & CSS to create a fun expanding card project
