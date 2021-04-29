@@ -8,9 +8,8 @@ Uses Javascript, HTML, CSS
 
 ![Example Page](/images/project-example.jpg)
 
-```sh
-Disclaimer:  I do not own any of these photos. please note that all images and copyrights belong to their original owners. no copyright infringement intended.
-```
+Disclaimer: I do not own any of these photos. Please note that all images and
+copyrights belong to their original owners. No copyright infringement intended.
 
 # Features
 
