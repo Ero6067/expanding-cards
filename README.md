@@ -6,7 +6,7 @@ Uses Javascript, HTML, CSS
 
 # Screenshot
 
-![Example Page](/images/project-example.jpg)
+![Example Page](/images/project-example.gif)
 
 Disclaimer: I do not own any of these photos. Please note that all images and
 copyrights belong to their original owners. No copyright infringement intended.
